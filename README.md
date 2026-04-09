@@ -38,9 +38,44 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mongodb,mysql,docker,aws,linux,git,github,fastapi,flask" />
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="60"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>MySQL</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="60"/><br>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="60"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="60"/><br>Linux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="60"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br>FastAPI</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="60"/><br>Flask</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="60"/><br>SQLite</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="60"/><br>Figma</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="60"/><br>Postman</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>LangChain</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>LangGraph</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>HuggingFace</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>RAG</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Deployment</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="60"/><br>Render</td>
+</tr>
+</table>
 
 ---
 
@@ -276,7 +311,7 @@
 ## 🎨 AI Developer Vibes
 
 <p align="center">
-  <img src="https://i.giphy.com/media/4GOtFB6KrZIFLh6alI/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/4GOtFB6KrZIFLh6alI/giphy.gif" width="350"/>
 </p>
 
 ---
