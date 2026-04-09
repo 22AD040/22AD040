@@ -292,7 +292,7 @@
 ## 🎨 AI Developer Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4GOtFB6KrZIFLh6alI/giphy.gif" width="350"/>
+  <img src="https://raw.githubusercontent.com/22AD040/22AD040/main/ai.gif" width="400"/>
 </p>
 
 ---
