@@ -276,7 +276,7 @@
 ## 🎨 AI Developer Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4GOtFB6KrZIFLh6alI/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/4GOtFB6KrZIFLh6alI/giphy.gif" width="300"/>
 </p>
 
 ---
