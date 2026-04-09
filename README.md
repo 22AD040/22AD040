@@ -38,44 +38,25 @@
 
 ## 💻 Tech Stack
 
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="60"/><br>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>MySQL</td>
-</tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,mongodb,mysql" />
+</p>
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="60"/><br>AWS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="60"/><br>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="60"/><br>Linux</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML</td>
-</tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,html,css,tailwind" />
+</p>
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="60"/><br>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br>FastAPI</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="60"/><br>Flask</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="60"/><br>SQLite</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="60"/><br>Figma</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="60"/><br>Postman</td>
-</tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite,figma,postman" />
+</p>
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>LangChain</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>LangGraph</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>HuggingFace</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>RAG</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Deployment</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="60"/><br>Render</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-AI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-Agents-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-System-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Render-Deployment-black?style=for-the-badge"/>
+</p>
 
 ---
 
