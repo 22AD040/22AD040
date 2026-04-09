@@ -2,11 +2,17 @@
 <h3 align="center">GenAI Engineer | AI Developer | Building Intelligent Systems</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ratchita+B+🚀;GenAI+Engineer+🤖;LangChain+%26+LangGraph+Specialist+⚡;AI+Agent+%26+Multi-Agent+Systems+Builder+🧠;Building+Scalable+AI+Products+🌍;Future+AI+Innovator+💡&center=true&width=700&height=50">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/22AD040/22AD040/main/ai.gif" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ratchita+B+🚀;GenAI+Engineer+🤖;LangChain+%26+LangGraph+Specialist+⚡;AI+Agent+%26+Multi-Agent+Systems+Builder+🧠;Building+Scalable+AI+Products+🌍;Future+AI+Innovator+💡&center=true&width=700&height=50">
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-00F7FF?style=for-the-badge&logo=OpenAI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Building-GenAI%20Systems-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Speciality-Multi--Agent%20AI-FF00FF?style=for-the-badge"/>
 </p>
 
 <p align="center">
