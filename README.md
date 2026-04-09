@@ -33,10 +33,13 @@
 
 ## 🧠 About Me
 
-🚀 GenAI Engineer focused on building **intelligent AI systems & real-world applications**
-🤖 Specialized in **LangChain, LangGraph, RAG & Multi-Agent Architectures**
-💡 Passionate about designing **scalable, memory-enabled AI assistants**
-🎯 Goal: Build **industry-level AI products solving real-world problems**
+🚀 GenAI Engineer focused on building intelligent, scalable AI systems & real-world applications  
+🤖 Specialized in LangChain, LangGraph, RAG pipelines & Multi-Agent Architectures  
+🧠 Skilled in Prompt Engineering, LLM Orchestration, Vector Databases (FAISS, Pinecone) & AI Memory Systems  
+⚙️ Experienced with FastAPI, Streamlit, REST APIs & end-to-end AI product development  
+📊 Proficient in LangSmith for LLM observability, debugging & performance evaluation  
+☁️ Deploying production-ready AI solutions using Docker, Hugging Face Spaces & Streamlit Cloud  
+🎯 Goal: To build industry-level, human-centric AI products that solve real-world problems at scale
 
 ---
 
