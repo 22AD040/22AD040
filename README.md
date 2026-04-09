@@ -1,8 +1,12 @@
-<h1 align="center">🚀 Ratchita B</h1>
+<h1 align="center">🤖 Ratchita B</h1>
 <h3 align="center">GenAI Engineer | AI Developer | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=GenAI+Engineer;LangChain+Developer;AI+Agent+Builder;Multi-Agent+Systems;Future+AI+Innovator&center=true&width=650&height=50">
+  <img src="https://raw.githubusercontent.com/22AD040/22AD040/main/ai.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ratchita+B+🚀;GenAI+Engineer+🤖;LangChain+%26+LangGraph+Specialist+⚡;AI+Agent+%26+Multi-Agent+Systems+Builder+🧠;Building+Scalable+AI+Products+🌍;Future+AI+Innovator+💡&center=true&width=700&height=50">
 </p>
 
 <p align="center">
@@ -135,7 +139,6 @@
 • Built using **Python, Streamlit, Gemini API**
 
 🔗 https://github.com/22AD040/ai-nexus-studio.git
-🌐 https://ai-nexus-studio-mryvn3qwb48elhtccnjwqz.streamlit.app/
 
 ---
 
@@ -145,7 +148,6 @@
 • Multi-functional AI system for productivity and intelligent automation
 
 🔗 https://github.com/22AD040/ai-nexus-studio-v2.git
-🌐 https://ai-nexus-studio-v2-7jgdssuwfzkbszekfrrfry.streamlit.app/
 
 ---
 
@@ -156,7 +158,6 @@
 • Built using **Machine Learning, Sentence Transformers, Gemini API**
 
 🔗 https://github.com/22AD040/gen-enterprise-ai-nexus
-🌐 https://gen-enterprise-ai-nexus-ktzem89e29efwnrvgflpdi.streamlit.app
 
 ---
 
@@ -166,7 +167,6 @@
 • Built with **FAISS, Sentence Transformers, Gemini API**
 
 🔗 https://github.com/22AD040/smart-ai-knowledge-navigator.git
-🌐 https://smart-ai-knowledge-navigator-wafw824rzwbftju3ph2gjc.streamlit.app/
 
 ---
 
@@ -176,7 +176,6 @@
 • Context-aware responses with persistent memory
 
 🔗 https://github.com/22AD040/ai-nexus-chatbot.git
-🌐 https://ai-nexus-chatbot-tbnxufeytrhbbdqzsggr4s.streamlit.app/
 
 ---
 
@@ -186,7 +185,6 @@
 • Integrated creative AI tools into a single interface
 
 🔗 https://github.com/22AD040/ai-smart-nexus-studio.git
-🌐 https://ai-smart-nexus-studio-yhkkejx6i2rngev9txcrrj.streamlit.app/
 
 ---
 
@@ -196,7 +194,6 @@
 • Generates structured answers with insights and explanations
 
 🔗 https://github.com/22AD040/smart-academic-assistant.git
-🌐 https://smart-academic-assistant-3wasyzjxu5kjcl8mqr7psd.streamlit.app/
 
 ---
 
@@ -206,7 +203,6 @@
 • Authentication, chat history, structured AI responses
 
 🔗 https://github.com/22AD040/smart-academic-assistant-pro
-🌐 https://smart-academic-assistant-pro-gexmx4a5xrdvffuew7kvo7.streamlit.app/
 
 ---
 
@@ -216,7 +212,6 @@
 • Uses **FAISS + LangChain + embeddings for context-aware responses**
 
 🔗 https://github.com/22AD040/smart-knowledge-ai-rag.git
-🌐 https://smart-knowledge-ai-rag-eigycfwp9rfdq7sn6kedz2.streamlit.app/
 
 ---
 
@@ -226,7 +221,6 @@
 • Uses FAISS memory for intelligent context switching
 
 🔗 https://github.com/22AD040/ai-nexus-multi-context-assistant
-🌐 https://ai-nexus-multi-context-assistant-yu4zdqyzyrxliwn8zwndvl.streamlit.app/
 
 ---
 
@@ -236,7 +230,6 @@
 • Includes calculator, weather API, and search tools
 
 🔗 https://github.com/22AD040/ai-nexus-multi-agent-assistant.git
-🌐 https://ai-nexus-multi-agent-assistant-poy5cmgp7z3yptdatpjxzt.streamlit.app/
 
 ---
 
@@ -246,7 +239,6 @@
 • ChatGPT-like system with structured responses
 
 🔗 https://github.com/22AD040/neurochat-memory-ai.git
-🌐 https://neurochat-memory-ai-tyntnh3j9rwxytr9ufqcju.streamlit.app/
 
 ---
 
@@ -285,14 +277,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/22AD040/22AD040/output/snake.svg" />
-</p>
-
----
-
-## 🎨 AI Developer Vibes
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/22AD040/22AD040/main/ai.gif" width="400"/>
 </p>
 
 ---
